@@ -21,6 +21,7 @@ Welcome to my GitHub profile. I am Amin and i will be posting my projects and wr
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ThisizAmen&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=&textBg=false&section=footer&reversal=true&animation=twinkling&fontColor=AA">
+[<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=&textBg=false&section=footer&reversal=true&animation=twinkling&fontColor=AA">
+](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=footer&reversal=true&fontAlign=95&fontAlignY=95&descAlign=95&descAlignY=95)
 
 ---
