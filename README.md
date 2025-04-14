@@ -8,6 +8,11 @@ Welcome to my GitHub profile. I am Amin and i will be posting my projects and wr
 
 <!-- [![Profile Views](https://visitcount.itsvg.in/api?id=thisizamen&icon=0&color=12)](https://visitcount.itsvg.in) -->
 
+---
+
+[![Amin Gurbanli profile views](https://u8views.com/api/v1/github/profiles/124512402/views/day-week-month-total-count.svg)](https://u8views.com/github/ThisizAmen)
+
+---
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thisizamen_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amin-gurbanli) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:qurbanli.amin004@gmail.com) 
 
