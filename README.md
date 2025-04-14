@@ -15,8 +15,6 @@ Welcome to my GitHub profile. I am Amin and i will be posting my projects and wr
 ![](https://github-readme-stats.vercel.app/api?username=ThisizAmen&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ThisizAmen&theme=dark&hide_border=true)
 
----
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ThisizAmen&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
