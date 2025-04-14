@@ -11,8 +11,14 @@ Welcome to my GitHub profile. I am Amin and i will be posting my projects and wr
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thisizamen_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amin-gurbanli) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:qurbanli.amin004@gmail.com) 
 
 # 📊 GitHub Stats:
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thisizamen&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thisizamen&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thisizamen&theme=github_dark)
+
 ![](https://github-readme-stats.vercel.app/api?username=ThisizAmen&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ThisizAmen&theme=dark&hide_border=true)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=&textBg=false&section=footer&reversal=true&animation=twinkling&fontColor=AAAAAA">
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ThisizAmen&theme=radical&no-frame=false&no-bg=true&margin-w=4)
