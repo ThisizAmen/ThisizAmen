@@ -12,9 +12,6 @@ Welcome to my GitHub profile. I am Amin and i will be posting my projects and wr
 
 # 📊 GitHub Stats:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thisizamen&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thisizamen&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thisizamen&theme=github_dark)
-
 ![](https://github-readme-stats.vercel.app/api?username=ThisizAmen&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ThisizAmen&theme=dark&hide_border=true)
 
