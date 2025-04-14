@@ -1,8 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1&color=FFFFFF&multiline=true&width=485&height=80&lines=%E2%94%8C%E2%94%80%E2%94%80(ThisizAmen%E3%89%BFKaniber)-%5B%2F%5D;%E2%94%94%E2%94%80%23+Whoami)](https://git.io/typing-svg)  
 
-# 💫 About Me:
-Welcome to my GitHub profile. I am Amin and i will be posting my projects and writeups in this gape)
-
+Welcome to my GitHub profile. I am Amin and i will be posting my projects and writeups in this page)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thisizamen_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amin-gurbanli) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:qurbanli.amin004@gmail.com) 
