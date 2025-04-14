@@ -15,7 +15,7 @@ Welcome to my GitHub profile. I am Amin and i will be posting my projects and wr
 ![](https://github-readme-stats.vercel.app/api?username=ThisizAmen&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ThisizAmen&theme=dark&hide_border=true)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=&textBg=false&section=footer&reversal=true&animation=twinkling&fontColor=AAAA">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=&textBg=false&section=footer&reversal=true&animation=twinkling&fontColor=AAA">
 
 ---
 
