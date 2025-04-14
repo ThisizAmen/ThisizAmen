@@ -16,6 +16,7 @@ Welcome to my GitHub profile. I am Amin and i will be posting my projects and wr
 ![](https://nirzak-streak-stats.vercel.app/?user=ThisizAmen&theme=dark&hide_border=true)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=&textBg=false&section=footer&reversal=true&animation=twinkling&fontColor=AAAAAA">
+
 ---
 
 ## 🏆 GitHub Trophies
