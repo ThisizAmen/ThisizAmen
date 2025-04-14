@@ -7,8 +7,7 @@ Welcome to my GitHub profile. I am Amin and i will be posting my projects and wr
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ThisizAmen&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ThisizAmen&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThisizAmen&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://nirzak-streak-stats.vercel.app/?user=ThisizAmen&theme=dark&hide_border=true)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ThisizAmen&theme=radical&no-frame=false&no-bg=true&margin-w=4)
@@ -18,5 +17,3 @@ Welcome to my GitHub profile. I am Amin and i will be posting my projects and wr
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ThisizAmen&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
