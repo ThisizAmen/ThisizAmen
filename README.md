@@ -1,16 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1&color=FFFFFF&multiline=true&width=485&height=80&lines=%E2%94%8C%E2%94%80%E2%94%80(ThisizAmen%E3%89%BFKaniber)-%5B%2F%5D;%E2%94%94%E2%94%80%23+Whoami)](https://git.io/typing-svg)  
 
 Welcome to my GitHub profile. I am Amin and i will be posting my projects and writeups in this page)
-
----
 <!-- [![Amin Gurbanli profile views](https://u8views.com/api/v1/github/profiles/57041974/views/day-week-month-total-count.svg)](https://u8views.com/github/ThisizAmen) -->
 [![Amin Gurbanli profile views](https://u8views.com/api/v1/github/profiles/57041974/views/total-count.svg)](https://u8views.com/github/ThisizAmen)
 
 <!-- [![Profile Views](https://visitcount.itsvg.in/api?id=thisizamen&icon=0&color=12)](https://visitcount.itsvg.in) -->
-
----
-
-[![Amin Gurbanli profile views](https://u8views.com/api/v1/github/profiles/124512402/views/day-week-month-total-count.svg)](https://u8views.com/github/ThisizAmen)
 
 ---
 ## 🌐 Socials:
